@@ -7,3 +7,9 @@
     <loc>https://YOUR-DOMAIN.com/about.html</loc>
   </url>
 </urlset>
+.alternate-name {
+  color: #c7a76c;
+  font-size: 1.2rem;
+  font-weight: 500;
+  margin-top: 0.5rem;
+}
